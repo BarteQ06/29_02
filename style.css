@@ -1,3 +1,8 @@
 body{
     background-color: burlywood;
 }
+p{
+    width: 150px;
+    height: 100px;
+    background-color: salmon;
+}
