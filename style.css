@@ -5,6 +5,7 @@ p{
     width: 150px;
     height: 100px;
     background-color: salmon;
+    font-size: 3em;
 }
 .container{
     background-color: yellow;
